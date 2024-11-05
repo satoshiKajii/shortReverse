@@ -11,3 +11,7 @@ The user can reverse an incoming audio signal in real-time while pushing the but
 # System Requirements 
 
 AUv3 host
+
+# Support
+
+If you have any questions, please contact me. < kajiisatoshi[AT]gmail[DOT]com >
