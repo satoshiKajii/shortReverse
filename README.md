@@ -10,4 +10,4 @@ The user can reverse an incoming audio signal in real-time while pushing the but
 
 # System Requirements 
 
-Auv3 host
+AUv3 host
